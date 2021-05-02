@@ -2,7 +2,7 @@
 const token = process.env.TOKEN;
 const host = require('./host.js')
 // ------------------------------
-
+// Test
 const fs = require('fs');
 const Discord = require('discord.js');
 const { prefix } = require('./config.json');
